@@ -1,6 +1,6 @@
 ### <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hewali Gogoi</h1>
 
-<h1 align="center"><a href="#"><img width="200" height="200" src="https://i.imgur.com/799y5A3.png"/></a></h1>
+<h1 align="center"><a href="#"><img width="200" height="200" src="https://pro2-bar-s3-cdn-cf5.myportfolio.com/17a47d9e8f4727ce5f3e48805b2d8eb2/67cb1a46-1d0c-45fe-ab3f-520e4802b1b8_rwc_0x7x800x626x800.gif?h=3ef38d2bcece76203455258e0d585fe9"/></a></h1>
 
 ## 🙋‍♂️ About Me
 
@@ -45,13 +45,7 @@ To make the best use of my skills & abilities which enables me to grow in the fi
 
 
 <br/>
-<br/>
 
-
-[![Hewali's github activity graph](https://activity-graph.herokuapp.com/graph?username=HewaliGogoi&theme=react-dark)](https://github.com/HewaliGogoi/github-readme-activity-graph)
-
-
-<br/>
 <br/>
 
 ## Connect with me:
@@ -65,6 +59,13 @@ To make the best use of my skills & abilities which enables me to grow in the fi
 <a href="https://github.com/HewaliGogoi?tab=followers"><img src="https://img.shields.io/github/followers/HewaliGogoi?label=Followers&style=social" alt="GitHub Badge"></a>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hewaligogoi&" alt="hewaligogoi" /></p>
 
+ <br/>
+
+
+[![Hewali's github activity graph](https://activity-graph.herokuapp.com/graph?username=HewaliGogoi&theme=react-dark)](https://github.com/HewaliGogoi/github-readme-activity-graph)
+
+
+<br/>
 
 
 <!--
