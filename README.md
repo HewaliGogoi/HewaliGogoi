@@ -60,21 +60,18 @@ To make the best use of my skills & abilities which enables me to grow in the fi
 <a href="https://github.com/HewaliGogoi/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=HewaliGogoi">
 </a>
-<a href="https://github.com/shubhamtammewar?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/HewaliGogoi?tab=followers"><img src="https://img.shields.io/github/followers/HewaliGogoi?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
 
 <!--
-**shubhamtammewar/shubhamtammewar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+:wave: Hi, I’m @HewaliGogoi
+- :eyes: I’m interested in learning languages
+- :seedling: I’m currently learning Full Stack Web Development
+- :revolving_hearts:️ I’m looking to collaborate on some projects which requires HTML5, CSS3 & JS
+- :mailbox: You can reach me in https://www.linkedin.com/in/hewali-gogoi-a01249172/
 -->
 
 <!---
