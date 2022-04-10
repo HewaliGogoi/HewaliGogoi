@@ -41,7 +41,7 @@ To make the best use of my skills & abilities which enables me to grow in the fi
 
 ## ✨ Top Languages Card
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamtammewar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=hewaligogoi&show_icons=true&locale=en&layout=compact)
 
 
 <br/>
@@ -60,7 +60,10 @@ To make the best use of my skills & abilities which enables me to grow in the fi
 <a href="https://github.com/HewaliGogoi/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=HewaliGogoi">
 </a>
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hewaligogoi" alt="hewaligogoi" /></a> </p>
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hewaligogoi&show_icons=true&locale=en" alt="hewaligogoi" /></p>
 <a href="https://github.com/HewaliGogoi?tab=followers"><img src="https://img.shields.io/github/followers/HewaliGogoi?label=Followers&style=social" alt="GitHub Badge"></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hewaligogoi&" alt="hewaligogoi" /></p>
 
 
 
