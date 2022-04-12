@@ -11,8 +11,10 @@ I am very enthusiastic about developing projects, I always find the most efficie
 To make the best use of my skills & abilities which enables me to grow in the field of coding & management as a developer while being resourceful, innovative & flexible. My goal is to be an asset to the organization. :)
 
 - 📫 How to reach me **hewaligogoi22@gmail.com**
-- <h5>Contact me</h5> 
-       <a style="margin:0;" target="_blank" href="https://www.linkedin.com/in/hewali-gogoi-a01249172/"><img  width="20px" height="20px" src="https://www.edigitalagency.com.au/wp-content/uploads/new-linkedin-logo-white-black-png.png"/><a/>
+
+## Connect with me:
+
+- <a style="margin:0;" target="_blank" href="https://www.linkedin.com/in/hewali-gogoi-a01249172/"><img  width="20px" height="20px" src="https://www.edigitalagency.com.au/wp-content/uploads/new-linkedin-logo-white-black-png.png"/><a/>
 
 - ⚡ Fun fact **Time, Tide and JavaScript waits for none.**
 - 📑 Know More About [Me](https://drive.google.com/file/d/1lhoBSaytviJkx-KvTERaVyK73jhQBXh4/view)
@@ -48,7 +50,7 @@ To make the best use of my skills & abilities which enables me to grow in the fi
 
 <br/>
 
-## Connect with me:
+
 
 ## ❤ Views and Followers
 <a href="https://github.com/HewaliGogoi/github-profile-views-counter">
